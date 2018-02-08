@@ -1,0 +1,2 @@
+g++ -Wall -O3 -std=c++11 -pedantic   -c -o main.o main.cpp
+<builtin>: recipe for target 'main.o' failed
